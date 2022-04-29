@@ -3,8 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package paqueteuno;
-
+package paquete001;
 /**
  *
  * @author reroes
@@ -21,6 +20,7 @@ public class FacturaTelefono {
     
     public void establecerMinutosMes(double c){
         minutosMes = c;
+    
     }
     
     public void establecerValorMinuto(double c){

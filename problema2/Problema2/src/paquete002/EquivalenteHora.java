@@ -1,18 +1,11 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package paquete002;
 
-/**
- *
- * @author SALA I
- */
 public class EquivalenteHora {
-    double horas;
-    double minutos;
-    double segundos;
-    double dias;
+    private double horas;
+    private double minutos;
+    private double segundos;
+    private double dias;
     
     public void establcerHora(double x) {
         horas = x;

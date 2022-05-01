@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package paquete001;
 import paquete002.EquivalenteHora;
 
@@ -24,7 +20,7 @@ public class Ejecutor {
         
         System.out.printf("Equivalencia Horas 1\n\nHoras: %s\n"
                 + "Minutos: %.2f\nSegundos: %.2f\n"
-                + "Dias: %.2f\n ",
+                + "Dias: %.2f\n",
                 h1.obtenerHoras(),
                 h1.obtenerMinutos(),
                 h1.obtenerSegundos(), 
